@@ -19,3 +19,5 @@
 
 ## English
 - [Eloquent Javascript](http://eloquentjavascript.net/)
+
+- [CSS Animation](https://daneden.github.io/animate.css/)
